@@ -62,12 +62,9 @@ A Task is defined by the following attributes:
 
 > # Let's code now
 &nbsp;
-
 # **I will start with the MVC Model version** 
 ----
-
 &nbsp;
-
 # *Mainwindow Interface*
 ![](/images/mainwindow.PNG)
 
@@ -77,7 +74,6 @@ A Task is defined by the following attributes:
 
 
 &nbsp;
-
 > # newddialog.h
 ```cpp
 #ifndef NEWDDIALOG_H
@@ -535,7 +531,6 @@ void MainWindow::closeEvent(QCloseEvent *event){
 
 
 &nbsp;
-
 # **Item Based Model Version**
 ---
 
@@ -543,7 +538,6 @@ void MainWindow::closeEvent(QCloseEvent *event){
 # *Mainwindow interface* 
 ![](/images/mainwindow2.PNG)
 &nbsp;
-
 #  *Dialog interface*
 ![](/images/dialog2.PNG)
 &nbsp;
