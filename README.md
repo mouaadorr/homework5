@@ -533,7 +533,7 @@ void MainWindow::closeEvent(QCloseEvent *event){
 
 
 
-https://user-images.githubusercontent.com/93826833/150689110-89e02bcd-2f30-49b9-acb2-ef582390f6b8.mp4
+
 
 
 
