@@ -529,11 +529,15 @@ void MainWindow::closeEvent(QCloseEvent *event){
 &nbsp;
 # *check the result*
 
+https://user-images.githubusercontent.com/93826833/150688875-78216176-829c-40b5-b482-ec30e9bf5f29.mp4
+
+https://user-images.githubusercontent.com/93826833/150688884-ff4697a0-a74c-4e09-8d7a-c7668754f82b.mp4
+
+
 
 &nbsp;
 # **Item Based Model Version**
 ---
-
 &nbsp;
 # *Mainwindow interface* 
 ![](/images/mainwindow2.PNG)
@@ -895,7 +899,7 @@ void ToDoApp::on_actionFinished_toggled(bool arg1)
 ```
 &nbsp;
 
-# *check the result*
+
 
 
 
