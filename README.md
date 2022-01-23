@@ -529,9 +529,15 @@ void MainWindow::closeEvent(QCloseEvent *event){
 &nbsp;
 # *check the result*
 
-https://user-images.githubusercontent.com/93826833/150688875-78216176-829c-40b5-b482-ec30e9bf5f29.mp4
 
-https://user-images.githubusercontent.com/93826833/150688884-ff4697a0-a74c-4e09-8d7a-c7668754f82b.mp4
+
+
+
+https://user-images.githubusercontent.com/93826833/150689110-89e02bcd-2f30-49b9-acb2-ef582390f6b8.mp4
+
+
+
+https://user-images.githubusercontent.com/93826833/150689113-93a6c20c-55db-43ad-964d-33e40c523930.mp4
 
 
 
